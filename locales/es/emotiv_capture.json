@@ -1,0 +1,5 @@
+{
+    "emotiv.client_id": "ID de Cliente (Client ID)",
+    "emotiv.client_secret": "Secreto de Cliente (Client Secret)",
+    "emotiv.simulate_device": "Simular Dispositivo (Mock)"
+}

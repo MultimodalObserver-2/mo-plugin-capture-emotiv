@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="24px"
+     height="24px"
+     viewBox="0 -960 960 960"
+     fill="none"
+     stroke="#002b30"
+     stroke-width="60"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Cerebro -->
+    <path d="
+        M300-300
+        q-80 0-130-55t-50-125
+        q0-55 35-95
+        q-25-35-25-75
+        q0-70 50-120t120-50
+        q25-55 75-85t105-30
+        q55 0 105 30t75 85
+        q70 0 120 50t50 120
+        q0 40-25 75
+        q35 40 35 95
+        q0 70-50 125t-130 55
+        H300
+        Z
+    "/>
+
+    <!-- Tallo -->
+    <path d="M430-300 v120"/>
+
+    <!-- Onda EEG -->
+    <path d="
+        M260-500
+        h80
+        l40-60
+        l40 120
+        l40-80
+        h80
+    "/>
+
+</svg>

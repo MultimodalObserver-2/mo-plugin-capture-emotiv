@@ -1,0 +1,31 @@
+{
+    "id": "emotiv-capture",
+    "name": "Emotiv Recorder",
+    "description": "A plugin for EEG data capture using Emotiv Epoc and Insight devices.",
+    "version": "0.1.0",
+    "publisher": {
+        "id": "interaction-lab",
+        "name": "InTeractiOn Lab",
+        "url": "https://interaction-lab.info"
+    },
+    "repository": "https://github.com/MultimodalObserver-2/",
+    "author": {
+        "name": "Camila Carabajal",
+        "email": "camila.carabajal@usach.cl"
+    },
+    "icon": {
+        "dark": "icons/icon_dark.svg",
+        "light": "icons/icon_light.svg"
+    },
+    "locales": "locales",
+    "platform": {
+        "linux": true,
+        "windows": true,
+        "mac": true
+    },
+    "entryPoints": {
+        "mo.plugin": "src.emotiv_recorder.main:EmotivCapturePlugin",
+        "mo.plugin.properties": "src.emotiv_recorder.properties:properties"
+    },
+    "target": "api"
+}

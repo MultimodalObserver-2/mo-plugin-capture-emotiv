@@ -1,0 +1,5 @@
+{
+    "emotiv.client_id": "Emotiv Client ID",
+    "emotiv.client_secret": "Emotiv Client Secret",
+    "emotiv.simulate_device": "Simulate Device (Mock)"
+}
