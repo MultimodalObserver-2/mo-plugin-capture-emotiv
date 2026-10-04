@@ -2,7 +2,7 @@
     "id": "emotiv-capture",
     "name": "Emotiv Recorder",
     "description": "A plugin for EEG data capture using Emotiv Epoc and Insight devices.",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "publisher": {
         "id": "interaction-lab",
         "name": "InTeractiOn Lab",
